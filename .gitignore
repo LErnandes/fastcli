@@ -1,1 +1,5 @@
 .DS_Store
+.env
+/dist
+/fasttempcli.egg-info
+*/__pycache__
